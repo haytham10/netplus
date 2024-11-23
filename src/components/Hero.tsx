@@ -57,7 +57,7 @@ export function Hero() {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl transform hover:scale-[1.02] transition-all duration-500">
               <div className="absolute inset-0 bg-gradient-to-t from-blue-950/90 via-blue-900/50 to-transparent z-10"></div>
               <img 
-                src="https://www.netplus-parebrise.com/galerie/crop/a1-01386bd6d8e0.jpg" 
+                src="a1-01386bd6d8e0.jpg" 
                 alt="Réparation de pare-brise professionelle"
                 className="w-full h-[600px] object-cover object-center"
               />

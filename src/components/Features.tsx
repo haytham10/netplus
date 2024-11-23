@@ -72,7 +72,7 @@ export function Features() {
           <div className="hidden lg:block relative mt-12 lg:mt-0">
             <div className="sticky top-8 transition-transform duration-700 hover:scale-[1.02]">
               <img 
-                src="https://www.netplus-parebrise.com/images/aside3.jpg" 
+                src="aside3.jpg" 
                 alt="Service Net Plus Pare-Brise" 
                 className="rounded-2xl shadow-2xl object-cover h-[600px] w-full"
               />

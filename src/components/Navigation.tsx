@@ -61,7 +61,7 @@ export function Navigation() {
               className="transform hover:scale-105 transition-transform duration-200"
             >
               <img 
-                src="https://www.netplus-parebrise.com/images/logo.png" 
+                src="logo.png" 
                 alt="Net Pare-Brise Logo"
                 className="h-16 w-auto object-contain"
               />
