@@ -47,7 +47,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-600 mt-16 pt-8 text-center text-gray-400">
-          <p className="text-sm font-light">&copy; 2024 Net Pare-Brise. Tous droits réservés.</p>
+          <p className="text-sm font-light">&copy; {new Date().getFullYear()} Net Pare-Brise. Tous droits réservés.</p>
         </div>
       </div>
     </footer>
